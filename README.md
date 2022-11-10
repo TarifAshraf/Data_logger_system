@@ -1,5 +1,17 @@
 # Data Logger System Using DHT11 and Arduino Uno R3
 
+**Softwares:**
+
+*Arduino IDE
+
+*Proteus
+
+*LabView
+
+*Virtual Comport
+
+
+
 **Circuit Diagram**
 
 ![CD](https://user-images.githubusercontent.com/97185928/201006860-e3ac6a28-cff4-4b17-9b3c-c41393ca1b92.png)
